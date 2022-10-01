@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/877bb3f2-baac-4e86-87a9-79203998e841/AppServices/subscriptions/877bb3f2-baac-4e86-87a9-79203998e841/resourceGroups/mertsancar_group/providers/Microsoft.Web/sites/mertsancar",
+    "appService.deploySubpath": "."
+}
